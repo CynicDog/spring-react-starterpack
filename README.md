@@ -1,4 +1,4 @@
-# pseudonymize-refactored
+# spring-react-starterpack
 
 <details><summary> Project Initialization Scripts </summary>
 
