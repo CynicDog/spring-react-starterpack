@@ -1,6 +1,6 @@
 # pseudonymize-refactored
 
-<details><summary> Project Initialization </summary>
+<details><summary> Project Initialization Scripts </summary>
 
 ### Front
 ```bash 
@@ -44,7 +44,7 @@ curl -L https://start.spring.io/starter.tgz \
 
 
 ```
-eunsang@eunsangs-Mac-mini pseudonymize-refactored % tree -L 2                                    
+spring-react-starterpack % tree -L 2                                    
 .
 ├── README.md
 ├── channel
