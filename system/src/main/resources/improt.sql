@@ -1,0 +1,1 @@
+INSERT INTO greet (message) VALUES ('Hello World from the Postgres Container!');
