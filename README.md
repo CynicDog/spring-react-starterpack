@@ -41,7 +41,7 @@ curl -L https://start.spring.io/starter.tgz \
 
 </details> 
 
-
+## Project Structure 
 
 ```
 spring-react-starterpack % tree -L 2                                    
@@ -80,4 +80,9 @@ spring-react-starterpack % tree -L 2
     └── src
 
 11 directories, 22 files
-```# spring-react-starterpack
+```
+
+## Start up 
+```
+spring-react-starterpack % docker compose up --build 
+```
